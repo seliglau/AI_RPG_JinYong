@@ -35,6 +35,6 @@
 
 ## 🛠️ 常見問題與疑難排解
 
-* **Q：如果 AI 漏咗出選項點算？**  
-  如遇上 AI 模型沒給予【你的行動】選項情況，請直接輸入：`給我【你的行動】選項`，即可順利繼續遊戲。<br>
+* **Q：如果 AI 漏咗出選項點算？**  <br>
+  A: 如遇上 AI 模型沒給予【你的行動】選項情況，請直接輸入：`給我【你的行動】選項`，即可順利繼續遊戲。<br>
 <img width="758" height="656" alt="image" src="https://github.com/user-attachments/assets/be814dda-7a19-44ca-b2ea-361ee8d59ea4" />
