@@ -1,4 +1,3 @@
-<img width="826" height="967" alt="image" src="https://github.com/user-attachments/assets/3589cee0-0be5-4fc9-9f00-76aba7c7ec62" />
 🗡️ 金庸群俠傳 AI RPG
 一個以金庸武俠世界為背景的文字 RPG 遊戲。只需上傳單一 Markdown 檔案，即可與任何 AI 開始沉浸式的江湖冒險！
 
@@ -11,10 +10,10 @@
 
 🚀 如何開始遊玩
 取得檔案：下載本專案的 RPG Markdown 檔案 (.md)。
-
+<img width="791" height="333" alt="image" src="https://github.com/user-attachments/assets/e6023789-8c6f-4c33-b34f-e9d88f797e84" />
 上傳 AI：將檔案直接上傳到你選擇的 AI 聊天視窗中。
-
 踏入江湖：輸入你的起始指令（例如：「開始遊戲」或「建立角色」），即可展開武俠人生！
+<img width="826" height="967" alt="image" src="https://github.com/user-attachments/assets/3589cee0-0be5-4fc9-9f00-76aba7c7ec62" />
 
 💡 推薦 AI 模型
 為了獲得最佳的性價比，推薦使用以下配置：
