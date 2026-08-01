@@ -8,21 +8,18 @@
 
 🚀 如何開始遊玩
 取得檔案：下載本專案的 RPG Markdown 檔案 (金庸RPG.md)。
-
-<img width="791" height="333" alt="image" src="https://github.com/user-attachments/assets/e6023789-8c6f-4c33-b34f-e9d88f797e84" />
+https://github.com/seliglau/AI_RPG_JinYong/blob/main/README.md
+<br><img width="791" height="333" alt="image" src="https://github.com/user-attachments/assets/e6023789-8c6f-4c33-b34f-e9d88f797e84" />
 
 上傳 AI：將檔案直接上傳到你選擇的 AI 聊天視窗中。
 踏入江湖：輸入你的起始指令（例如：「開始遊戲」或「建立角色」），即可展開武俠人生！
-
-<img width="826" height="967" alt="image" src="https://github.com/user-attachments/assets/3589cee0-0be5-4fc9-9f00-76aba7c7ec62" />
+<br><img width="826" height="967" alt="image" src="https://github.com/user-attachments/assets/3589cee0-0be5-4fc9-9f00-76aba7c7ec62" />
 
 💡 推薦 AI 模型
 為了獲得最佳的性價比，推薦使用以下配置：
 Google Gemini (Flash-Lite / Extended)：免費且節省 Token，完全不需要動用高階運算模型即可輕鬆暢玩。
-
-<img width="524" height="322" alt="image" src="https://github.com/user-attachments/assets/839bbfd8-b627-4d38-8658-c5796ed876d5" />
+<br><img width="524" height="322" alt="image" src="https://github.com/user-attachments/assets/839bbfd8-b627-4d38-8658-c5796ed876d5" />
 
 解決疑難
 如遇上AI model沒給予【你的行動】選項情況, 請輸入 "給我【你的行動】選項" 即可繼續遊戲
-
-<img width="758" height="656" alt="image" src="https://github.com/user-attachments/assets/be814dda-7a19-44ca-b2ea-361ee8d59ea4" />
+<br><img width="758" height="656" alt="image" src="https://github.com/user-attachments/assets/be814dda-7a19-44ca-b2ea-361ee8d59ea4" />
