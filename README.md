@@ -19,8 +19,9 @@
 
 2. **上傳 AI**：將檔案直接上傳到你選擇的 AI 聊天視窗中。
 
-3. **踏入江湖**：輸入你的角色名字與出身編號，即可展開武俠人生！<br>
-<img width="826" height="967" alt="image" src="https://github.com/user-attachments/assets/3589cee0-0be5-4fc9-9f00-76aba7c7ec62" />
+3. **踏入江湖**：輸入你的時代，角色名字與出身編號：`元末明初, 金城武, 4`，即可展開武俠人生！<br>
+<img width="844" height="1199" alt="Screenshot 2026-08-01 123336" src="https://github.com/user-attachments/assets/32859f06-1ca5-4479-97c3-aa188ea60064" />
+
 
 ---
 
