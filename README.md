@@ -15,7 +15,7 @@
 ## 🚀 如何開始遊玩
 
 1. **取得檔案**：按此直接前往下載或查看 [金庸RPG.md](https://github.com/seliglau/AI_RPG_JinYong/blob/main/%E9%87%91%E5%BA%B8RPG.md)。<br>
-<img width="791" height="333" alt="image" src="https://github.com/user-attachments/assets/e6023789-8c6f-4c33-b34f-e9d88f797e84" />
+<img width="791" height="333" alt="image" src="https://github.com/user-attachments/assets/e6023789-8c6f-4c33-b34f-e9d88f797e84" /><br>
 2. **上傳 AI**：將檔案直接上傳到你選擇的 AI 聊天視窗中。<br>
 <img width="846" height="1046" alt="Screenshot 2026-08-01 160709" src="https://github.com/user-attachments/assets/3aead091-82d6-44ee-abd4-79056736d788" /><br>
 3. **踏入江湖**：輸入你的時代，角色名字與出身編號：`元末明初, 金城武, 4`，即可展開武俠人生！<br>
